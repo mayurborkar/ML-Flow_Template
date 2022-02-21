@@ -1,2 +1,2 @@
 # Project-Template
-The Repository Will Create The Project Structure.
+The Repository Will Create The  General Project Structure.
